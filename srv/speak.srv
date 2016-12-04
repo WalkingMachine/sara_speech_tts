@@ -1,0 +1,5 @@
+string language
+string words
+bool blocking_call
+---
+string error_msg
